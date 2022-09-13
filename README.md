@@ -3,4 +3,7 @@
 
 A simple login and registration form pages and the connection of frontend with backend. <br/>
 
+## Registration Page <br/>
 
+<br/>
+## Login Page <br/>
